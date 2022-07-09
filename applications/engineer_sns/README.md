@@ -4,7 +4,7 @@ https://qiita.com/HawkClaws/items/599d7666f55e79ef7f56
 こちらの記事のAPIを活用したお遊び
 
 ## what can you do with this
-- 投稿本文のみを雑に用事する
+- 投稿本文のみを雑に表示する
 
 ## useage
 - サーバー起動
